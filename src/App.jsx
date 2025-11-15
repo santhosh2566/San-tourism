@@ -8,7 +8,7 @@ import DestinationList from './components/DestinationList';
 import ContactForm from './components/ContactForm';
 import DestinationDetail from './components/DestinationDetail';
 import FavoriteDestinations from './components/favouritedestination';
-import About from './components/About';   // ✅ New About page import
+import About from './components/about';   
 import img1 from './assets/tour15.jpg';
 import img2 from './assets/tour7.jpg';
 import img3 from './assets/tour9.jpg';
